@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "enrichViewNet"]
+	path = enrichViewNet
+	url = https://github.com/adeschen/enrichviewnet
 [submodule "methylInheritance"]
 	path = methylInheritance
 	url = https://github.com/adeschen/methylinheritance
